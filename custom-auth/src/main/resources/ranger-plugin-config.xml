@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin-config>
+    <name>CustomPlugin</name>
+    <enabled>true</enabled>
+    <description>Custom Apache Ranger plugin for access control</description>
+    <class>auth.rancher.CustomTLSAuthProvider</class>
+</plugin-config>
