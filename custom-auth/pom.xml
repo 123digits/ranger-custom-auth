@@ -11,14 +11,14 @@
   <dependencies>
     <!-- Ranger Core - Contains core classes including RangerAuthenticationProvider -->
     <dependency>
-            <groupId>org.apache.ranger</groupId>
-            <artifactId>ranger-authn</artifactId>
-            <version>2.5.0</version> <!-- Replace with the exact version of Ranger you are using -->
-        </dependency>
-        <dependency>
-        <groupId>org.apache.ranger</groupId>
-        <artifactId>ranger-plugins-common</artifactId>
-        <version>2.5.0</version> <!-- Use the version that matches your Ranger deployment -->
+      <groupId>org.apache.ranger</groupId>
+      <artifactId>ranger-authn</artifactId>
+      <version>2.5.0</version> <!-- Replace with the exact version of Ranger you are using -->
+    </dependency>
+    <dependency>
+      <groupId>org.apache.ranger</groupId>
+      <artifactId>ranger-plugins-common</artifactId>
+      <version>2.5.0</version> <!-- Use the version that matches your Ranger deployment -->
     </dependency>
     <!--<dependency>
             <groupId>org.apache.ranger</groupId>
